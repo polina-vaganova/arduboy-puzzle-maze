@@ -1,0 +1,24 @@
+C:\Users\TomPro\AppData\Local\arduino\sketches\89901342E2330EB2C9B573E2B02494F5\libraries\Arduboy2\Arduboy2Audio.cpp.o: \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Arduboy2Audio.cpp \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Arduboy2.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Arduino.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/binary.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/WCharacter.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/WString.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/HardwareSerial.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Stream.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Print.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Printable.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/USBAPI.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Arduino.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/USBDesc.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/USBCore.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\variants\leonardo/pins_arduino.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\libraries\EEPROM\src/EEPROM.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Arduboy2Core.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Arduboy2Audio.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Arduboy2Beep.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\Sprites.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\SpritesCommon.h \
+ c:\Users\TomPro\Documents\Arduino\libraries\Arduboy2\src\SpritesB.h \
+ C:\Users\TomPro\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Print.h

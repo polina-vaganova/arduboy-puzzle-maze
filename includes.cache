@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\TomPro\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\TomPro\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo"
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\PuzzleMaze.ino.cpp",
+    "Include": "Arduboy2.h",
+    "Includepath": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\PuzzleMaze.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\TomPro\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\PuzzleMaze.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\Game.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\graphics.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\TomPro\\AppData\\Local\\arduino\\sketches\\89901342E2330EB2C9B573E2B02494F5\\sketch\\levels.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Arduboy2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Arduboy2Audio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Arduboy2Beep.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Arduboy2Core.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Arduboy2Data.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\Sprites.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TomPro\\Documents\\Arduino\\libraries\\Arduboy2\\src\\SpritesB.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
