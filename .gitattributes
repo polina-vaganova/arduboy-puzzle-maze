@@ -1,0 +1,6 @@
+# Arduino sketches are C++; make sure the language stats say so
+*.ino linguist-language=C++
+*.h   linguist-language=C++
+
+# the prebuilt binary is not source
+release/* linguist-vendored
