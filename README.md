@@ -7,6 +7,13 @@ You see the whole maze for three seconds. After that the lights go out: only the
 steps of the player stay visible, and you have 60 seconds to find the key, open the door and reach
 the exit from memory.
 
+<p align="center">
+  <img src="docs/gameplay.png" width="88%"><br>
+  <sub>Left: the memorise phase, whole maze visible. Right: the same level in play, with the
+  visibility radius of two cells. Rendered at the display's 128×64 resolution from the level data
+  in <code>levels.cpp</code>.</sub>
+</p>
+
 ## Gameplay
 
 | | |
